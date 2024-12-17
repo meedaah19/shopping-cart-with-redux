@@ -9,7 +9,7 @@ const DUMMY_PRODUCTS = [
     decription: 'The first book i ever wrote',
   },
   {
-    id: 'p1',
+    id: 'p2',
     price: 6,
     title: 'My Second Book',
     decription: 'The Second book i ever wrote',
